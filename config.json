@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userperify",
+        "uuid": 3265255,
+        "checksum": "8xplraw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
